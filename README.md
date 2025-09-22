@@ -73,6 +73,39 @@ Além disso, criei programas de automatização para escritórios e processos ad
 
 ***
 
+## 🏅 Badges
+
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: flex-start; align-items: center;">
+
+  <img src="https://github.com/ProfMPPDias/mdias_curriculum_vitae/blob/main/assets/imgs/badges/AI_Fundamentals_with_IBM_SkillsBuild.png" alt="AI_Fundamentals_with_IBM_SkillsBuild" width="100" style="margin-bottom: 8px;" />
+
+  <img src="https://github.com/ProfMPPDias/mdias_curriculum_vitae/blob/main/assets/imgs/badges/Artificial_Intelligence_Fundamentals.png" alt="Artificial_Intelligence_Fundamentals" width="100" style="margin-bottom: 8px;" />
+
+  <img src="https://github.com/ProfMPPDias/mdias_curriculum_vitae/blob/main/assets/imgs/badges/Generative_AI_Overview_for_Project_Managers.png" alt="Generative_AI_Overview_for_Project_Managers" width="100" style="margin-bottom: 8px;" />
+
+  <img src="https://github.com/ProfMPPDias/mdias_curriculum_vitae/blob/main/assets/imgs/badges/Google_AI_Essentials_V1.png" alt="Google_AI_Essentials_V1" width="100" style="margin-bottom: 8px;" />
+
+  <img src="https://github.com/ProfMPPDias/mdias_curriculum_vitae/blob/main/assets/imgs/badges/Google_Prompting_Essentials.png" alt="Google_Prompting_Essentials" width="100" style="margin-bottom: 8px;" />
+
+  <img src="https://github.com/ProfMPPDias/mdias_curriculum_vitae/blob/main/assets/imgs/badges/Introduction_to_Data_Science.png" alt="Introduction_to_Data_Science" width="100" style="margin-bottom: 8px;" />
+
+  <img src="https://github.com/ProfMPPDias/mdias_curriculum_vitae/blob/main/assets/imgs/badges/Introduction_to_Modern_AI.png" alt="Introduction_to_Modern_AI" width="100" style="margin-bottom: 8px;" />
+
+</div>
+<div align="left" style="margin-top:16px;">
+
+- **AI_Fundamentals_with_IBM_SkillsBuild**
+- **Artificial_Intelligence_Fundamentals**
+- **Generative_AI_Overview_for_Project_Managers**
+- **Google_AI_Essentials_V1**
+- **Google_Prompting_Essentials**
+- **Introduction_to_Data_Science**
+- **Introduction_to_Modern_AI**
+
+</div>
+
+***
+
 ## 🗣️ Idiomas
 
 - 🇺🇸 Inglês: C2 Fluente
