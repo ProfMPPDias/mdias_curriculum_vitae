@@ -1,7 +1,7 @@
 <img src="https://github.com/ProfMPPDias/mdias_curriculum_vitae/blob/main/assets/imgs/mdias_foto.png" alt="Foto de Marcos Paulo Pereira Dias" width="120" align="left" style="border-radius:50%; margin-right: 16px;" />
 
 # 👋 `print('Hello')` Eu sou Marcos Paulo Pereira Dias
-🚀 Analista de Sistemas | Ciência de Dados | Inteligência Artificial | Machine Learning Especialist/Consultant | Especialista em Inteligência Artificial/Redes Neurais | AWS Professional | Azure Professional
+🚀 Analista de Sistemas | 🎲 Ciência de Dados | 🧠 Especialista em Inteligência Artificial/Redes Neurais | 🤖 Machine Learning Especialist/Consultant
 
 ***
 
