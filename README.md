@@ -12,10 +12,6 @@
 
 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela UNESA e Pós-Graduado em Ciência de Dados com ênfase em Tratamento de Dados, Governança de Dados, Data Mining, Machine Learning e Desenvolvimento de Inteligência Artificial Generativa pela UNIASSELVI.
 
-Visualize minha carteira de skills da Credly, e veja minhas badges:
-
-https://www.credly.com/users/marcos-paulo-pereira-dias/badges#credly 
-
 🤖 Desenvolvedor do GuruGPT 🤖
 
 GuruGPT - Seu Chat Zen é um projeto totalmente Free, Colaborativo e Open-Source, uma IA Generativa de Texto que possui uma rede neural própria baseada no Llama da Meta. Você pode colaborar com melhorias nessa IA utilizando nosso GitHub: https://github.com/ProfMPPDias/gurugpt
