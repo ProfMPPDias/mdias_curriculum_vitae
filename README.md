@@ -7,9 +7,28 @@
 
 ## 🚀 Sobre Mim
 
-💡 Desenvolvedor apaixonado por inteligência artificial e automação
-🎯 Minha missão: transformar dados em **insights valiosos** e soluções inovadoras
-🧑‍💻 CleanCode, liderança técnica e foco em resultado
+🚀 Analista de Sistemas | Ciência de Dados | Inteligência Artificial | Machine Learning Especialist/Consultant | Especialista em Inteligência Artificial/Redes Neurais | AWS Professional | Azure Professional 
+
+🎓 Graduado em Análise e Desenvolvimento de Sistemas pela UNESA e Pós-Graduado em Ciência de Dados com ênfase em Tratamento de Dados, Governança de Dados, Data Mining, Machine Learning e Desenvolvimento de Inteligência Artificial Generativa pela UNIASSELVI.
+
+Visualize minha carteira de skills da Credly, e veja minhas badges:
+
+https://www.credly.com/users/marcos-paulo-pereira-dias/badges#credly 
+
+🤖 Desenvolvedor do GuruGPT 🤖
+
+GuruGPT - Seu Chat Zen é um projeto totalmente Free, Colaborativo e Open-Source, uma IA Generativa de Texto que possui uma rede neural própria baseada no Llama da Meta. Você pode colaborar com melhorias nessa IA utilizando nosso GitHub: https://github.com/ProfMPPDias/gurugpt
+
+E você poderá utilizar nossa ferramenta no website: https://gurugpt.com.br
+
+🔍 Experiência Profissional:
+
+Atualmente, como colaborarador da Solutic Group, liderei equipe, sendo principal desenvolvedor da IA Generativa de Pesquisas de Contrato de Sondas na gerência de SONDAS na Petrobras, nomeado Sondalize. Criando toda a estrutura backend da aplicação baseada em embedding de contratos de sondas para apoio a equipe de campo embarcadas.
+
+Como Prestador de Serviços para a Petrobras, na Bureau Veritas Brasil, liderei projetos de automatização por IA. Um destaque foi a otimização dos Processos de Padronização de Fotografias de Rochas Laterais (Corte e Longitudinais), Testemunhos, Detalhes e Plugues. Antes, essas tarefas eram realizadas individualmente, mas com a automação, passaram a ser produzidas em grandes lotes, agilizando a entrega e a alocação nas bases de dados do PROLAB.
+Desenvolvi 54 programas/scripts para automatização direta e indireta em laboratórios, incluindo processos laboratoriais de MEV (Microscopia Eletrônica de Varredura) e softwares autônomos para geração de relatórios e estatísticas de amostragem.
+Participei ativamente do desenvolvimento da solução de IA da Petrobras, o ChatPetrobras, que utiliza Inteligência Artificial Generativa para melhorar a comunicação e a eficiência.
+Além disso, criei programas de automatização para escritórios e processos administrativos, acumulando 2 anos e 3 meses de experiência como Analista de Sistemas na Bureau Veritas Brasil.
 
 ***
 
