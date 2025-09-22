@@ -155,7 +155,7 @@ Além disso, criei programas de automatização para escritórios e processos ad
 - **Mais de 100 certificados em IA, Machine Learning, Data Science, Processamento de Linguagem Natural, Visão Computacional, Modelagem e Banco de Dados, Engenharia de Prompt, Desenvolvimento Low-Code, Automação, Cloud DevOps, API e Open Source**.
 - **Competências comprovadas por credenciais digitais AWS, DIO, Microsoft, Google, Cisco, Asimov Academy, Fund. Getúlio Vargas, Ibmec, PMI, StartSe, Alura**.
 
-Para visualizar minhas certificações completas, visite [AQUI](https://github.com/ProfMPPDias/mdias_curriculum_vitae/tree/main/certifications)
+> Para visualizar minhas certificações completas, visite [AQUI](https://github.com/ProfMPPDias/mdias_curriculum_vitae/tree/main/certifications)_
 
 ***
 
