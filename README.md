@@ -91,6 +91,8 @@ Além disso, criei programas de automatização para escritórios e processos ad
 
   <img src="https://github.com/ProfMPPDias/mdias_curriculum_vitae/blob/main/assets/imgs/badges/Introduction_to_Modern_AI.png" alt="Introduction_to_Modern_AI" width="100" style="margin-bottom: 8px;" />
 
+  Para visualizar meu perfil na Credly, visite [AQUI](https://www.credly.com/users/marcos-paulo-pereira-dias/badges#credly).
+
 </div>
 
 ***
