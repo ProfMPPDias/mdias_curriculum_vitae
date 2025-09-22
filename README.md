@@ -3,8 +3,6 @@
 # 👋 `print('Hello')` Eu sou Marcos Paulo Pereira Dias
 🚀 Analista de Sistemas | Ciência de Dados | Inteligência Artificial | Machine Learning Especialist/Consultant | Especialista em Inteligência Artificial/Redes Neurais | AWS Professional | Azure Professional
 
-📍 Rio de Janeiro, Brasil
-
 ***
 
 ## 🚀 Sobre Mim
