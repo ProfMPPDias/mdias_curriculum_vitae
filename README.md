@@ -156,7 +156,7 @@ Além disso, criei programas de automatização para escritórios e processos ad
 - **Competências comprovadas por credenciais digitais AWS, DIO, Microsoft, Google, Cisco, Asimov Academy, Fund. Getúlio Vargas, Ibmec, PMI, StartSe, Alura**.
 
 <br/>
-> _Consulte a lista completa de licenças, certificações e cursos individualizados [AQUI](https://github.com/ProfMPPDias/mdias_curriculum_vitae/tree/main/certifications)
+Para visualizar meu perfil na Credly, visite [AQUI](https://github.com/ProfMPPDias/mdias_curriculum_vitae/tree/main/certifications).
 
 ***
 
