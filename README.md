@@ -1,4 +1,4 @@
-# 👋 `print('Hello World!')` Eu sou Marcos Paulo Pereira Dias
+# 👋 `print('Hello')` Eu sou Marcos Paulo Pereira Dias
 
 **Analista de Sistemas**, **Cientista de Dados** e especialista em **Governança de TI**
 📍 Rio de Janeiro, Brasil
@@ -116,7 +116,7 @@
 - **Competências comprovadas por credenciais digitais AWS, DIO, Microsoft, Google, Cisco, Asimov Academy, Fund. Getúlio Vargas, Ibmec, PMI, StartSe, Alura**.
 
 <br/>
-> _Consulte o paste.txt para a lista completa de licenças, certificações e cursos individualizados._
+> _Consulte a lista completa de licenças, certificações e cursos individualizados AQUI._
 
 ***
 
