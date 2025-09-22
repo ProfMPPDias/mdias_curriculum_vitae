@@ -167,6 +167,13 @@ Para visualizar minhas certificações completas, visite [AQUI](https://github.c
 
 ***
 
+## 📄 Currículo em Arquivo PDF
+
+Se você é nostálgico e curte um currículo clássico em arquivo PDF para impressão, você poderá acessá-lo abaixo:
+
+[**Abrir PDF**](https://github.com/ProfMPPDias/mdias_curriculum_vitae/blob/main/pdf_file/Marcos%20Paulo%20Pereira%20Dias%20-%20Curriculum%20Vitae.pdf)
+
+
 > _“Sempre buscando excelência e inovação!”_
 
 ***
