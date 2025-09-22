@@ -1,12 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# Analise meu currículo que esta anexado e crie ele com modernização, imagens, emojis e tudo mais em markdown para pôr no Github como README. Para exibir quem acessar o link do repositório.
-
-Aqui está uma versão totalmente modernizada do seu currículo em formato **README.md** para GitHub, com imagens, emojis e seções bem organizadas em Markdown. Basta copiar e colar no seu repositório!
-
-***
-
-# 👋 Olá! Eu sou Marcos Paulo Pereira Dias
+# 👋 <print> Hello World! </print> Eu sou Marcos Paulo Pereira Dias
 
 **Analista de Sistemas**, **Cientista de Dados** e especialista em **Governança de TI**
 📍 Rio de Janeiro, Brasil
