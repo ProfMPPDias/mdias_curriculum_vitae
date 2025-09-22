@@ -174,6 +174,8 @@ Se você é nostálgico e curte um currículo clássico em arquivo PDF para impr
 [**Abrir PDF**](https://github.com/ProfMPPDias/mdias_curriculum_vitae/blob/main/pdf_file/Marcos%20Paulo%20Pereira%20Dias%20-%20Curriculum%20Vitae.pdf)
 
 
+
+
 > _“Sempre buscando excelência e inovação!”_
 
 ***
