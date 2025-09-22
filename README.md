@@ -1,4 +1,4 @@
-# 👋 print ('Hello World!') Eu sou Marcos Paulo Pereira Dias
+# 👋 print('Hello World!') Eu sou Marcos Paulo Pereira Dias
 
 **Analista de Sistemas**, **Cientista de Dados** e especialista em **Governança de TI**
 📍 Rio de Janeiro, Brasil
