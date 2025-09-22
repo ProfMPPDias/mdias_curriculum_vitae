@@ -92,17 +92,6 @@ Além disso, criei programas de automatização para escritórios e processos ad
   <img src="https://github.com/ProfMPPDias/mdias_curriculum_vitae/blob/main/assets/imgs/badges/Introduction_to_Modern_AI.png" alt="Introduction_to_Modern_AI" width="100" style="margin-bottom: 8px;" />
 
 </div>
-<div align="left" style="margin-top:16px;">
-
-- **AI_Fundamentals_with_IBM_SkillsBuild**
-- **Artificial_Intelligence_Fundamentals**
-- **Generative_AI_Overview_for_Project_Managers**
-- **Google_AI_Essentials_V1**
-- **Google_Prompting_Essentials**
-- **Introduction_to_Data_Science**
-- **Introduction_to_Modern_AI**
-
-</div>
 
 ***
 
