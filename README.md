@@ -38,7 +38,8 @@ Além disso, criei programas de automatização para escritórios e processos ad
 
 | Cargo | Empresa/Local | Período |
 | :-- | :-- | :-- |
-| Analista de Sistemas Sênior | Solutic / EDISEN-RJ | 2024 - atual |
+| Analista de Sistemas Sênior I | Kempetro Engenharia / EDISEN-RJ | 2025 - atual |
+| Analista de Sistemas Sênior | Solutic / EDISEN-RJ | 2024 - 2025 |
 | Analista de Sistemas Sênior | Bureau Veritas / CENPES-RJ | 2022 - 2024 |
 | Instrutor | Microlins | 2020-2021 |
 | Instrutor | SENAC-RJ | 2019-2020 |
