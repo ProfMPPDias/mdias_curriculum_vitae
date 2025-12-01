@@ -162,7 +162,7 @@ Para visualizar minhas certificações completas, visite [AQUI](https://github.c
 - 🏠 Endereço: Rua José de A. Barreto, 99 Bl. 4 Apt. 202 - Cocotá, RJ, CEP 21921-548
 - 📧 Email: [mppdias@outlook.com](mailto:mppdias@outlook.com)
 - 📱 Celular: (21) 97587-2404
-- 🌐 Web: [mppdias.rf.gd](http://mppdias.rf.gd)
+- 🌐 Web: [mdiasportfolio.web.app](https://mdiasportfolio.web.app/)
 - 🔗 LinkedIn: [marcos-paulo-pereira-dias-b5609947](https://linkedin.com/in/marcos-paulo-pereira-dias-b5609947)
 - 🧑‍💼 ProfMPPDias (instagram/other)
 
