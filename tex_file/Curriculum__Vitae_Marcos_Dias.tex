@@ -1,0 +1,179 @@
+\documentclass[%singlesided,
+               doublesided,
+               paper=a4,
+               fontsize=10pt
+              ]{my-resume}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% set geometry
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\setlength\highlightwidth{8cm}
+\setlength\headerheight{4cm}            % note that margintop gets added to this value, i.e. the header bar is 5cm
+\setlength\marginleft{1cm}
+\setlength\marginright{\marginleft}      % needs to be 1.5 times to be actually equal. why?
+\setlength\margintop{1cm}
+\setlength\marginbottom{1cm}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% FONTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\RequirePackage{fontspec}
+\setmainfont{Carlito}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% COLORS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\colorlet{highlightbarcolor}{lightgray}
+\colorlet{headerbarcolor}{darkgray}
+
+\colorlet{headerfontcolor}{white}
+\colorlet{accent}{awesome-red}
+\colorlet{heading}{black}
+\colorlet{emphasis}{black}
+\colorlet{body}{black}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% set document
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+\name{Marcos Paulo Pereira Dias}
+\tagline{Bachelor's degree in Systems Analysis and Development from UNESA and Postgraduate degree in Data Science with emphasis on Data Processing, Data Governance, Data Mining, Machine Learning and Generative Artificial Intelligence Development from UNIASSELVI.}
+\photo[round]{picture.jpg}{\dimexpr \headerheight-\marginbottom}   % make photo exactly match the header with margintop/marginright/marginbottom as margin
+
+\makeheader
+
+\highlightbar{
+
+    \section{Contact}
+    
+    \email{mppdias@outlook.com}
+    \phone{(21 97587-2404 (Whatsapp)}
+    \location{Rua J. de Almeida B. 99 - Bl 4 Apt 202}
+    \vspace{0.5em}
+    \homepage{mdiasportfolio.web.app}{https://mdiasportfolio.web.app/}
+    \github{github.com/ProfMPPDias/ProfMPPDias}{https://github.com/ProfMPPDias/ProfMPPDias}
+    \linkedin{marcos-paulo-pereira-dias-b5609947}{https://www.linkedin.com/in/marcos-paulo-pereira-dias-b5609947}
+    
+    \section{Skills}
+    
+    \skillsection{Programming}
+    \skill{Python}{5}
+    \skill{Java}{5}
+    \skill{Julia}{4}
+    \skill{Streamlit}{5}
+    \skill{Angular}{3}
+    \skill{React}{4}
+    
+    \vspace{0.5em}
+    \skillsection{Operating Systems}
+    \skill{Linux}{5}
+    \skill{Windows}{5}
+    
+    \vspace{0.5em}
+    \skillsection{Software \& Tools}
+    \skill{Visualisation}{5}
+    (e.g. matplotlib, gnuplot, ...)\\
+    \skill{Data handling/analysis}{5}
+    (e.g. numpy, scipy, pandas, ...)\\
+    \skill{Langchain}{5} \\
+    \skill{PowerBi}{3} \\
+    \skill{Docker}{5}
+    \skill{Office}{5}
+    
+    \vspace{0.5em}
+    \skillsection{Languages}
+    \skill{English}{5}
+    \skill{Spanish}{3}
+    \bigskip
+    
+    \section{Certificates}
+    \simpleskill{AI Agent Engineer Training}
+    \simpleskill{DevSecOps - Pipeline CI/CD}
+    \simpleskill{AWS - No-Code Machine Learning with Amazon SageMaker Canvas}
+    \simpleskill{AWS - Operationalize Generative AI Applications (FMOps/LLMOps)}
+    \simpleskill{AWS - Building a Generative AI-Ready Organization}
+    \simpleskill{AWS - Planning a Generative AI Project}
+    \simpleskill{CISCO - Introduction to Modern AI}
+    \simpleskill{CISCO - AI Fundamentals with IBM SkillsBuild}
+    
+
+}
+\mainbar{
+    \section{About Me}
+Currently, as a collaborator at Kempetro Engenharia, I led a team, being the main developer of the Generative AI for Drilling Rig Contract Research in the DRILLING RIGS management at Petrobras, named Sondalize.
+    
+    \section[\faGears]{Work history}
+    \job{10/2025 - Now}
+        {Kempetro Engenharia, Rio de Janeiro}
+        {Senior Systems Analyst I}
+        {Design and develop all aspects of the backend and frontend of the generative AI chatbot application for drilling rig contracts and legal opinions on Petrobras wells.}
+    \job{08/2024 - 10/2025}
+        {Solutic 2010, Rio de Janeiro}
+        {Senior Systems Analyst}
+        {Design and develop all aspects of the backend and frontend of the generative AI chatbot application for drilling rig contracts and legal opinions on Petrobras wells.}
+    \job{07/2022 - 04/2024}
+        {Bureau Veritas Inspections, Rio de Janeiro}
+        {Senior Systems Analyst}
+        {Development of scripts and software for the automation of Petrobras laboratories - CENPES.}
+    
+    \section[\faMortarBoard]{Education}
+    \job{02/2024 - 07/2024}
+        {Uniasselvi, Rio de Janeiro}
+        {Postgraduate - lato sensu}
+        {IT Governance}
+    \job{11/2023 - 04/2024}
+        {Uniasselvi, Rio de Janeiro}
+        {Postgraduate - lato sensu}
+        {Data Science}
+    \job{01/2017 - 12/2021}
+        {Uniasselvi, Rio de Janeiro}
+        {Graduate}
+        {Systems Analysis and Development}
+
+    \section{General Skills}
+    \smallskip % additional skip because tag outlines use up space
+    \tag{Analytical Thinking}
+    \tag{Problem-Solving}
+    \tag{Critical Thinking}
+    \tag{Technical Proficiency}
+    \tag{Documentation Skills}
+    \tag{Project Management}
+    \tag{Time Management}
+    \tag{Decision-Making}
+    \tag{Collaboration}
+    
+    \medskip
+    
+    \section{Wheel Chart My Job}
+    % This is taken from AltaCV
+    % see https://github.com/liantze/AltaCV for details
+    \wheelchart{1.5cm}{0.5cm}{% outer and inner diameter
+        6/8em/accent!20/Machine Learning,          % comma-separated list of
+            8/8em/accent!40/Programming,    % fraction of 24 / line length / color / label
+        2/8em/accent!80/Data Engineering,          % here, the color is shades of the accent color
+        3/8em/accent!60/MLOps and Deployment,
+        5/8em/accent/Data Analisys
+    }
+}
+\makebody
+\clearpage
+
+
+\pagestyle{highlightmain}
+
+% The highlightbar needs to be filled to display mainbar contents correctly in singlesised mode
+% For an empty highlightbar, fill with empty space
+\highlightbar{\hfill}
+\mainbar{
+
+\end{document}
