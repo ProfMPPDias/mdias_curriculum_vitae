@@ -9,12 +9,6 @@
 
 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela UNESA e Pós-Graduado em Ciência de Dados com ênfase em Tratamento de Dados, Governança de Dados, Data Mining, Machine Learning e Desenvolvimento de Inteligência Artificial Generativa pela UNIASSELVI.
 
-🤖 Desenvolvedor do GuruGPT 🤖
-
-GuruGPT - Seu Chat Zen é um projeto totalmente Free, Colaborativo e Open-Source, uma IA Generativa de Texto que possui uma rede neural própria baseada no Llama da Meta. Você pode colaborar com melhorias nessa IA utilizando nosso GitHub: https://github.com/ProfMPPDias/gurugpt
-
-E você poderá utilizar nossa ferramenta no website: https://gurugpt.com.br
-
 🔍 Experiência Profissional:
 
 Atualmente, como colaborarador da Solutic Group, liderei equipe, sendo principal desenvolvedor da IA Generativa de Pesquisas de Contrato de Sondas na gerência de SONDAS na Petrobras, nomeado Sondalize. Criando toda a estrutura backend da aplicação baseada em embedding de contratos de sondas para apoio a equipe de campo embarcadas.
