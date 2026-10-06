@@ -65,6 +65,8 @@ Além disso, criei programas de automatização para escritórios e processos ad
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: flex-start; align-items: center;">
 
+  <img src="https://images.credly.com/size/110x110/images/9a0c6353-2f3f-4667-8f0b-2c81f8de260c/GenAI_SoftDev.png" alt="Generative AI: Prompting Engineering Basics" width="100" style="margin-bottom: 8px;" />
+
   <img src="https://github.com/ProfMPPDias/mdias_curriculum_vitae/blob/main/assets/imgs/badges/IBM-Generative%20Ai_EngineeringPrompts.png" alt="Generative AI: Prompting Engineering Basics" width="100" style="margin-bottom: 8px;" />
 
   <img src="https://github.com/ProfMPPDias/mdias_curriculum_vitae/blob/main/assets/imgs/badges/AI_Fundamentals_with_IBM_SkillsBuild.png" alt="AI_Fundamentals_with_IBM_SkillsBuild" width="100" style="margin-bottom: 8px;" />
