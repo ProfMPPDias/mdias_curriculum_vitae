@@ -11,7 +11,7 @@
 
 🔍 Experiência Profissional:
 
-Atualmente, como colaborarador da Solutic Group, liderei equipe, sendo principal desenvolvedor da IA Generativa de Pesquisas de Contrato de Sondas na gerência de SONDAS na Petrobras, nomeado Sondalize. Criando toda a estrutura backend da aplicação baseada em embedding de contratos de sondas para apoio a equipe de campo embarcadas.
+Atualmente, como colaborarador da Kempetro Engenharia, liderei equipe, sendo principal desenvolvedor da IA Generativa de Pesquisas de Contrato de Sondas na gerência de SONDAS na Petrobras, nomeado Sondalize. Criando toda a estrutura backend da aplicação baseada em embedding de contratos de sondas para apoio a equipe de campo embarcadas.
 
 Como Prestador de Serviços para a Petrobras, na Bureau Veritas Brasil, liderei projetos de automatização por IA. Um destaque foi a otimização dos Processos de Padronização de Fotografias de Rochas Laterais (Corte e Longitudinais), Testemunhos, Detalhes e Plugues. Antes, essas tarefas eram realizadas individualmente, mas com a automação, passaram a ser produzidas em grandes lotes, agilizando a entrega e a alocação nas bases de dados do PROLAB.
 Desenvolvi 54 programas/scripts para automatização direta e indireta em laboratórios, incluindo processos laboratoriais de MEV (Microscopia Eletrônica de Varredura) e softwares autônomos para geração de relatórios e estatísticas de amostragem.
