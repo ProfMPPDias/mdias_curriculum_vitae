@@ -161,7 +161,7 @@ Para visualizar minhas certificações completas, visite [AQUI](https://github.c
 - 📧 Email: [mppdias@outlook.com](mailto:mppdias@outlook.com)
 - 📱 Celular: (21) 97587-2404
 - 🌐 Web: [mdiasportfolio.web.app](https://mdiasportfolio.web.app/)
-- 🔗 LinkedIn: [marcos-paulo-pereira-dias-b5609947](https://linkedin.com/in/marcos-paulo-pereira-dias-b5609947)
+- 🔗 LinkedIn: [marcos-paulo-pereira-dias-b5609947](https://www.linkedin.com/in/profmppdias)
 - 🧑‍💼 ProfMPPDias (instagram/other)
 
 ***
