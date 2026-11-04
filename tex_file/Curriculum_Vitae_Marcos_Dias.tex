@@ -1,0 +1,294 @@
+\documentclass[singlesided,
+               paper=a4,
+               fontsize=9.5pt
+              ]{my-resume}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% FONTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\RequirePackage{fontspec}
+\IfFontExistsTF{Segoe UI}{%
+    \setmainfont{Segoe UI}%
+}{%
+    \IfFontExistsTF{Calibri}{%
+        \setmainfont{Calibri}%
+    }{%
+        \setmainfont{Carlito}%
+    }%
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% COLORS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\colorlet{highlightbarcolor}{lightgray}
+\colorlet{headerbarcolor}{awesome-darknight}
+\colorlet{headerfontcolor}{white}
+\colorlet{accent}{awesome-skyblue}
+\colorlet{heading}{awesome-darknight}
+\colorlet{emphasis}{darkgray}
+\colorlet{body}{mediumgray}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% DOCUMENT SETUP
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\name{Marcos Paulo Pereira Dias}
+\tagline{Analista de Sistemas S\^{e}nior \textbullet\ Especialista em IA, LLMs \& Redes Neurais \textbullet\ Ci\^{e}ncia de Dados, RAG \& MLOps}
+\photo[round]{photo.png}{2.7cm}
+
+\makeheader
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PAGE 1 - SIDEBAR
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\highlightbar{
+
+    \section[\faInfoCircle]{Contato}
+    \email{mppdias@outlook.com}
+    \phone{(21) 97587-2404 (WhatsApp)}
+    \location{Rio de Janeiro -- RJ, Brasil}
+    \homepage{mdiasportfolio.web.app}{https://mdiasportfolio.web.app/}
+    \github{github.com/ProfMPPDias}{https://github.com/ProfMPPDias}
+    \linkedin{profmppdias}{https://www.linkedin.com/in/profmppdias}
+    \credly{Perfil Credly (Badges)}{https://www.credly.com/users/marcos-paulo-pereira-dias/badges\#credly}
+
+    \section[\faLanguage]{Idiomas}
+    \skill{Ingl\^{e}s (Fluente / C2)}{5}
+    \skill{Espanhol (Intermedi\'{a}rio)}{3}
+    \skill{Portugu\^{e}s (Nativo)}{5}
+
+    \section[\faCogs]{Compet\^{e}ncias Core}
+    \skillsection{Linguagens \& Core}
+    \skill{Python}{5}
+    \skill{SQL \& Modelagem}{5}
+    \skill{Java \& Julia}{4}
+    \skill{R \& Estat\'{i}stica}{4}
+
+    \vspace{0.25em}
+    \skillsection{IA Generativa \& ML}
+    \skill{LangChain \& LlamaIndex}{5}
+    \skill{RAG, Agentes \& LLMs}{5}
+    \skill{PyTorch \& TensorFlow}{5}
+    \skill{OpenCV (Vis\~{a}o Comp.)}{5}
+    \skill{Scikit-Learn \& Pandas}{5}
+
+    \vspace{0.25em}
+    \skillsection{Cloud, DevOps \& Data}
+    \skill{AWS (SageMaker/IA)}{5}
+    \skill{Azure AI \& OpenAI}{5}
+    \skill{Docker \& DevSecOps}{4}
+    \skill{Streamlit \& FastAPI}{5}
+    \skill{Power BI \& Analytics}{4}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PAGE 1 - MAINBAR
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\mainbar{
+    \section[\faUser]{Perfil Profissional}
+    Analista de Sistemas S\^{e}nior, Cientista de Dados e Especialista em Intelig\^{e}ncia Artificial com s\'{o}lida atua\c{c}\~{a}o no setor de \'{O}leo \& G\'{a}s junto \`{a} \textbf{Petrobras} (CENPES e EDISEN).
+    L\'{i}der t\'{e}cnico e arquiteto principal do \textbf{Sondalize} (solu\c{c}\~{a}o corporativa de IA Generativa com RAG e embeddings de contratos de sondas na ger\^{e}ncia de SONDAS da Petrobras).
+    Desenvolvedor de \textbf{54 programas de automa\c{c}\~{a}o inteligente} laboratorial com vis\~{a}o computacional no CENPES (MEV, PROLAB) e co-desenvolvedor do \textbf{ChatPetrobras}.
+    Dupla P\'{o}s-Gradua\c{c}\~{a}o em Ci\^{e}ncia de Dados e Governan\c{c}a de TI, combinando excel\^{e}ncia em engenharia de software (\textit{Clean Code}), seguran\c{c}a e IA Generativa.
+
+    \section[\faBriefcase]{Experi\^{e}ncia Profissional}
+    \job{10/2025 -- Atual}
+        {Kempetro Engenharia \textbullet\ EDISEN-RJ}
+        {Analista de Sistemas S\^{e}nior I (L\'{i}der T\'{e}cnico)}
+        {Lideran\c{c}a t\'{e}cnica e arquitetura backend da IA Generativa de Pesquisa e An\'{a}lise de Contratos de Sondas (\textbf{Sondalize}) na ger\^{e}ncia de SONDAS da Petrobras. Pipelines de embeddings, recupera\c{c}\~{a}o vetorial (RAG) e suporte t\'{e}cnico \`{a}s equipes de engenharia embarcadas offshore.}
+
+    \job{08/2024 -- 10/2025}
+        {Solutic 2010 \textbullet\ EDISEN-RJ}
+        {Analista de Sistemas S\^{e}nior}
+        {Concep\c{c}\~{a}o, arquitetura e desenvolvimento full-stack do assistente de IA Generativa para processamento anal\'{i}tico de contratos de sondas mar\'{i}timas, dados operacionais e pareceres jur\'{i}dicos para po\c{c}os da Petrobras.}
+
+    \job{07/2022 -- 04/2024}
+        {Bureau Veritas Brasil \textbullet\ CENPES-RJ}
+        {Analista de Sistemas S\^{e}nior (Automa\c{c}\~{a}o \& IA)}
+        {Lideran\c{c}a de projetos de automa\c{c}\~{a}o por IA nos laborat\'{o}rios de geologia do CENPES. Desenvolvimento de \textbf{54 softwares/scripts} para ensaios de MEV (Microscopia Eletr\^{o}nica de Varredura), relat\'{o}rios aut\^{o}nomos e padroniza\c{c}\~{a}o em lote de fotos de rochas laterais integradas \`{a} base PROLAB. Co-desenvolvimento do \textbf{ChatPetrobras}.}
+
+    \job{2016 -- 2021}
+        {SENAC-RJ \textbullet\ Microlins \textbullet\ Digital Max}
+        {Instrutor e Docente de Computa\c{c}\~{a}o / TI}
+        {Instrutor de tecnologia, l\'{o}gica de programa\c{c}\~{a}o, desenvolvimento de software, banco de dados, redes e pacote produtivo avan\c{c}ado no SENAC-RJ (2019--2020), Microlins (2020--2021) e Escolas Digital Max (2017--2019).}
+
+    \section[\faPieChart]{Distribui\c{c}\~{a}o de Atua\c{c}\~{a}o T\'{e}cnica}
+    \wheelchart{1.08cm}{0.34cm}{%
+        7/9em/accent!90/IA Generativa e LLMOps,
+        6/9em/accent!70/Engenharia e Python,
+        5/9em/accent!50/Machine Learning e Vis\~{a}o,
+        4/9em/accent!30/Dados e Governan\c{c}a,
+        3/9em/accent!15/Cloud e DevSecOps
+    }
+}
+
+\makebody
+\clearpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PAGE 2 - SIDEBAR
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pagestyle{highlightmain}
+
+\highlightbar{
+
+    \section[\faCertificate]{Badges Oficiais}
+    \badgegrid{badges/Google_AI_Essentials_V1.png}{badges/Google_Prompting_Essentials.png}{badges/Artificial_Intelligence_Fundamentals.png}{badges/Introduction_to_Modern_AI.png}
+
+    \vspace{0.2em}
+    \section[\faStar]{Destaques de Impacto}
+    \simpleskill{+100 Certifica\c{c}\~{o}es em IA e Cloud}
+    \simpleskill{54 Softwares Industriais (CENPES)}
+    \simpleskill{L\'{i}der Backend do Sondalize (Sondas)}
+    \simpleskill{Co-desenvolvedor ChatPetrobras}
+    \simpleskill{Pipeline DevSecOps \& IA Segura}
+
+    \vspace{0.3em}
+    \section[\faTags]{Conceitos \& Dom\^{i}nios}
+    \tag{RAG / Embeddings}
+    \tag{Model Context Protocol (MCP)}
+    \tag{Agentes Aut\^{o}nomos}
+    \tag{Prompt Engineering}
+    \tag{Vis\~{a}o Computacional}
+    \tag{Deep Learning \& LLMs}
+    \tag{Clean Architecture}
+    \tag{LLMOps / FMOps}
+    \tag{Docker \& Containers}
+    \tag{CI/CD DevSecOps}
+    \tag{LGPD \& Governan\c{c}a}
+    \tag{ETL \& Data Modeling}
+
+    \vspace{0.3em}
+    \section[\faCheckSquareO]{Principais Licen\c{c}as}
+    \simpleskill{ASIMOV: Eng. de IA \& LangChain}
+    \simpleskill{DeepLearning.AI: Neural Networks}
+    \simpleskill{AWS: FMOps/LLMOps Certified}
+    \simpleskill{Google: AI \& Prompting Essentials}
+    \simpleskill{CISCO: Modern AI \& Data Science}
+    \simpleskill{PMI: GenAI for Project Managers}
+    \simpleskill{Petrobras: DevSecOps CI/CD}
+    \simpleskill{TryHackMe: AI Security Certified}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PAGE 2 - MAINBAR
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\mainbar{
+    \section[\faGraduationCap]{Forma\c{c}\~{a}o Acad\^{e}mica}
+    \job{02/2024 -- 07/2024}
+        {UNIASSELVI \textbullet\ Rio de Janeiro}
+        {P\'{o}s-Gradua\c{c}\~{a}o Lato Sensu -- Governan\c{c}a de TI}
+        {Governan\c{c}a corporativa de dados, gest\~{a}o de riscos, seguran\c{c}a da informa\c{c}\~{a}o e conformidade LGPD.}
+
+    \job{11/2023 -- 04/2024}
+        {UNIASSELVI \textbullet\ Rio de Janeiro}
+        {P\'{o}s-Gradua\c{c}\~{a}o Lato Sensu -- Ci\^{e}ncia de Dados}
+        {Data Mining, Machine Learning, Redes Neurais e Desenvolvimento de Intelig\^{e}ncia Artificial Generativa.}
+
+    \job{01/2017 -- 12/2021}
+        {Universidade Est\'{a}cio de S\'{a} (UNESA)}
+        {Gradua\c{c}\~{a}o -- An\'{a}lise e Desenvolvimento de Sistemas}
+        {Forma\c{c}\~{a}o em engenharia de software, sistemas distribu\'{i}dos e modelagem de bancos de dados.}
+
+    \job{01/2014 -- 12/2015}
+        {Universidade Est\'{a}cio de S\'{a} (UNESA)}
+        {T\'{e}cnico em Inform\'{a}tica}
+        {Infraestrutura tecnol\'{o}gica, redes de computadores, seguran\c{c}a e l\'{o}gica de programa\c{c}\~{a}o.}
+
+    \section[\faBook]{Cursos Extensivos: IA Generativa \& Agentes}
+    \begin{itemize}
+        \item \textbf{ASIMOV Academy} -- \textit{Forma\c{c}\~{a}o Engenheiro de IA}: Aplica\c{c}\~{o}es de IA com LangChain, Agentes Aut\^{o}nomos com ChatGPT, Arquitetura Interna de LLMs, Model Context Protocol (MCP) na Pr\'{a}tica e Python para IA e Chatbots.
+        \item \textbf{DeepLearning.AI} -- \textit{Neural Networks and Deep Learning} (Andrew Ng): Redes neurais profundas, regulariza\c{c}\~{a}o, otimiza\c{c}\~{a}o e inicializa\c{c}\~{a}o de par\^{a}metros.
+        \item \textbf{IBM \& Coursera} -- \textit{Generative AI Professional Series}: Elevate your Software Development, Prompting Engineering Basics, GenAI Introduction \& Applications.
+        \item \textbf{Google Certified} -- \textit{Google AI Essentials \& Google Prompting Essentials}: Engenharia de prompts profissional, uso respons\'{a}vel de IA e automa\c{c}\~{a}o no ambiente de trabalho.
+        \item \textbf{University of Michigan \& Packt} -- \textit{Generative AI Essentials} e \textit{Certificate in GenAI Foundations}: Modelos fundacionais, prompting e integra\c{c}\~{a}o de microsservi\c{c}os.
+        \item \textbf{Project Management Institute (PMI)} -- \textit{Generative AI Overview for Project Managers}: Gest\~{a}o estrat\'{e}gica de iniciativas com IA e mensura\c{c}\~{a}o de ROI.
+        \item \textbf{Funda\c{c}\~{a}o Getulio Vargas (FGV)} -- \textit{Trilha Executiva de IA}: IA Generativa e ChatGPT na Efici\^{e}ncia do Trabalho, IA em Pesquisa e Ensino, T\'{o}picos em Machine Learning e Git/GitHub.
+        \item \textbf{StartSe University \& SENAC} -- \textit{Certifica\c{c}\~{a}o Executiva IA Para Todos} e \textit{Intelig\^{e}ncia Artificial na Pr\'{a}tica}.
+        \item \textbf{Ibmec} -- \textit{Intelig\^{e}ncia Artificial -- Carreira Exponencial}: Fundamentos e estrat\'{e}gias de aplica\c{c}\~{a}o empresarial de IA.
+    \end{itemize}
+}
+
+\makebody
+\clearpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PAGE 3 - SIDEBAR
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pagestyle{highlightmain}
+
+\highlightbar{
+
+    \section[\faTrophy]{Badges Credly}
+    \badgegrid{badges/Introduction_to_Data_Science.png}{badges/AI_Fundamentals_with_IBM_SkillsBuild.png}{badges/Generative_AI_Overview_for_Project_Managers.png}{badges/IBM-Generative_Ai_EngineeringPrompts.png}
+
+    \vspace{0.2em}
+    \section[\faCloud]{Cloud \& Infra}
+    \simpleskill{Amazon Web Services (AWS)}
+    \simpleskill{Microsoft Azure AI Services}
+    \simpleskill{Docker Containers}
+    \simpleskill{CI/CD Pipelines (DevSecOps)}
+    \simpleskill{Git / GitHub / Codespaces}
+    \simpleskill{Model Context Protocol (MCP)}
+
+    \vspace{0.3em}
+    \section[\faDatabase]{Dados \& Analytics}
+    \simpleskill{SQL \& Modelagem Relacional}
+    \simpleskill{Power BI \& DAX}
+    \simpleskill{Pandas \& NumPy}
+    \simpleskill{ETL \& Power Query}
+    \simpleskill{Data Mining \& Predi\c{c}\~{a}o}
+
+    \vspace{0.3em}
+    \section[\faShield]{Seguran\c{c}a \& LGPD}
+    \simpleskill{LGPD / Seguran\c{c}a da Informa\c{c}\~{a}o}
+    \simpleskill{DevSecOps Petrobras}
+    \simpleskill{AI Security (TryHackMe)}
+    \simpleskill{Ciberseguran\c{c}a (Hackers do Bem)}
+
+    \vspace{0.3em}
+    \section[\faExternalLink]{Acervo Completo}
+    {\footnotesize Para visualizar todas as +100 certifica\c{c}\~{o}es digitalizadas na \'{i}ntegra, acesse o reposit\'{o}rio:\par}
+    \vspace{0.25em}
+    \github{Reposit\'{o}rio Certificados}{https://github.com/ProfMPPDias/mdias_curriculum_vitae/tree/main/certifications}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PAGE 3 - MAINBAR
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\mainbar{
+    \section[\faServer]{Cursos Extensivos: Cloud, ML \& MLOps}
+    \begin{itemize}
+        \item \textbf{Amazon Web Services (AWS)}: Operationalize Generative AI Applications (FMOps/LLMOps), Building a Generative AI-Ready Organization, Planning a Generative AI Project, Intro to Machine Learning e Responsible AI.
+        \item \textbf{DIO \& AWS} -- \textit{Bootcamp Nexa}: An\'{a}lise Avan\c{c}ada de Imagens e Texto com IA na AWS (Rekognition, Textract, Transcribe e SageMaker Canvas), Previs\~{a}o de Estoque e ML Sem C\'{o}digo.
+        \item \textbf{DIO \& BairesDev} -- \textit{Bootcamp Machine Learning Practitioner}: Treinamento Supervisionado, N\~{a}o-Supervisionado, Refor\c{c}o, Redes Neurais, Algoritmos Gen\'{e}ticos, Vis\~{a}o Computacional com OpenCV, Pandas e TensorFlow.
+        \item \textbf{DIO \& Microsoft} -- \textit{Bootcamps Microsoft AI for Tech}: OpenAI Services, Copilot Studio, Prompts Inteligentes, Azure AI Fundamentals e GitHub Copilot.
+        \item \textbf{Alura} -- \textit{Imers\~{a}o Cloud DevOps}: Docker, conteineriza\c{c}\~{a}o, infraestrutura \'{a}gil e automa\c{c}\~{a}o de pipelines cont\'{i}nuos CI/CD.
+        \item \textbf{Escola do Trabalhador 4.0 (Microsoft)} -- Trilha completa de +40 cursos: IA no Azure, Vis\~{a}o Computacional, NLP, Azure OpenAI, Power Automate, Power BI e GitHub Codespaces.
+        \item \textbf{CISCO \& IBM SkillsBuild}: Artificial Intelligence Fundamentals, Modern AI, Data Science.
+        \item \textbf{ENAP} -- \textit{Big Data no Setor P\'{u}blico} e \textit{Python para An\'{a}lise de Dados}.
+        \item \textbf{Simplifica Treinamentos \& LinkedIn}: An\'{a}lise e modelagem anal\'{i}tica avan\c{c}ada de dados.
+    \end{itemize}
+
+    \vspace{0.25em}
+    \section[\faLock]{Cursos Extensivos: DevSecOps \& Seguran\c{c}a}
+    \begin{itemize}
+        \item \textbf{Petrobras (EDISEN / CENPES)}: DevSecOps -- Pipeline CI/CD, Intelig\^{e}ncia Artificial Respons\'{a}vel, Seguran\c{c}a da Informa\c{c}\~{a}o, Governan\c{c}a Corporativa, Privacidade e Prote\c{c}\~{a}o de Dados Pessoais (LGPD).
+        \item \textbf{TryHackMe}: AI Security Certified e Pre-Security (SEC0) -- seguran\c{c}a de modelos de IA, amea\c{c}as adversariais e defesas cibern\'{e}ticas.
+        \item \textbf{Hackers do Bem (RNP / Softex / MCTI)}: Ciberseguran\c{c}a Nivelamento e Ciberseguran\c{c}a B\'{a}sico -- fundamentos de defesa cibern\'{e}tica e governan\c{c}a de redes.
+        \item \textbf{ENAP \& Escola do Trabalhador}: Lei Geral de Prote\c{c}\~{a}o de Dados Pessoais (LGPD), \'{E}tica em Intelig\^{e}ncia Artificial e Tratamento Seguro de Dados.
+    \end{itemize}
+
+    \vspace{0.25em}
+    \section[\faCheckCircle]{Metodologias \& Pr\'{a}ticas de Engenharia}
+    \begin{itemize}
+        \item \textbf{Princ\'{i}pios de Software}: Clean Code, Clean Architecture, SOLID, Design Patterns, TDD e arquitetura de microsservi\c{c}os.
+        \item \textbf{Ciclo de Vida de IA (LLMOps / MLOps)}: Gest\~{a}o de ciclo de vida de prompts, avalia\c{c}\~{a}o de benchmarks, monitoramento de drift, rastreabilidade e governan\c{c}a de IA respons\'{a}vel.
+        \item \textbf{Gest\~{a}o \& Colabora\c{c}\~{a}o}: Metodologias \'{a}geis (Scrum, Kanban, Jira), documenta\c{c}\~{a}o t\'{e}cnica e mentoria de times t\'{e}cnicos.
+    \end{itemize}
+}
+
+\makebody
+
+\end{document}
